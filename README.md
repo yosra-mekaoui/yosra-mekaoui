@@ -36,7 +36,7 @@ Et afin d'enrichir mes compétences et mettre en pratique mes connaissances, je 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yosra-mekaoui&theme=highcontrast&hide_border=true" alt="#yosra-mekaoui" />
  </div>
     </td>
-    ## 📊 **GitHub Stats**
+    
 
 <img src="https://activity-graph.herokuapp.com/graph?username=yosra-mekaoui&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <h3 align="left">Support:</h3>
