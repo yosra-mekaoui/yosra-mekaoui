@@ -32,8 +32,8 @@ Et afin d'enrichir mes compétences et mettre en pratique mes connaissances, je 
  <h2>Time for Stats📈</h2>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosra-mekaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yosra-mekaoui" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yosra-mekaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="louayyahyaouie" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yosra-mekaoui&theme=highcontrast&hide_border=true" alt="#your-username" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=yosra-mekaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yosra-mekaoui" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yosra-mekaoui&theme=highcontrast&hide_border=true" alt="#yosra-mekaoui" />
  </div>
     </td>
     ## 📊 **GitHub Stats**
