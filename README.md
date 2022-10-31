@@ -11,7 +11,7 @@ Et afin d'enrichir mes compétences et mettre en pratique mes connaissances, je 
 - 📫 How to reach me **yosra.mekaoui@esprit.tn**
 
 - ⚡ Fun fact **Hello**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yosra-mekaoui&label=Profile%20views&color=0e75b6&style=flat" alt="yosra-mekaoui" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mekaoui-yosra-546b61206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mekaoui-yosra-546b61206/" height="30" width="40" /></a>
