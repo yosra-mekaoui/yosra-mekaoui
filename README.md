@@ -1,6 +1,5 @@
-![Blue Modern Entrepreneur Linkedln Banner](https://user-images.githubusercontent.com/61566287/200389461-0ca3dbf8-23cd-41fe-a6dd-ccd4e843bf1e.png)
+![Yellow Civil Engineer Job LinkedIn Banner](https://user-images.githubusercontent.com/61566287/200391399-3fd434b7-b51f-49bf-8c6c-9b540bf5c73f.png)
 
-![yosra](https://user-images.githubusercontent.com/61566287/173469686-33129810-2d93-42bb-b5e0-2b2a8e827003.png)
 <h1 align="center">Hi 👋, I'm Yosra Mekaoui</h1>
 <h3 align="center">IT engineering student from Tunisia</h3>
 <h4 align = "center">Je suis extrêmement motivée, travailleuse et sérieuse. Je suis prête à consacrer mon temps et mon énergie aux projets auxquels je crois. 
