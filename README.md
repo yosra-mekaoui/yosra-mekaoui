@@ -1,3 +1,5 @@
+![Blue Modern Entrepreneur Linkedln Banner](https://user-images.githubusercontent.com/61566287/200389461-0ca3dbf8-23cd-41fe-a6dd-ccd4e843bf1e.png)
+
 ![yosra](https://user-images.githubusercontent.com/61566287/173469686-33129810-2d93-42bb-b5e0-2b2a8e827003.png)
 <h1 align="center">Hi 👋, I'm Yosra Mekaoui</h1>
 <h3 align="center">IT engineering student from Tunisia</h3>
