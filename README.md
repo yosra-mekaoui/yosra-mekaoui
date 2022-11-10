@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yosra Mekaoui</h1>
-![Yellow Civil Engineer Job LinkedIn Banner](https://user-images.githubusercontent.com/61566287/200391399-3fd434b7-b51f-49bf-8c6c-9b540bf5c73f.png)
+![Yellow Civil Engineer Job LinkedIn Banner](https://user-images.githubusercontent.com/61566287/201190293-b2109467-87c5-4396-b5bf-fc8af034032a.png)
+
 
 
 <h3 align="center">IT engineering student from Tunisia</h3>
