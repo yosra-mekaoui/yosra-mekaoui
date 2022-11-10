@@ -5,8 +5,7 @@
 </h1>
 
 <h3 align="center">IT engineering student from Tunisia</h3>
-<h4 align = "center">Je suis extrêmement motivée, travailleuse et sérieuse. Je suis prête à consacrer mon temps et mon énergie aux projets auxquels je crois. 
-Et afin d'enrichir mes compétences et mettre en pratique mes connaissances, je m'investirai pleinement dans tout ce que j'entreprends car j'aime apprendre, relever les défis et me surpasser.</h4>
+
 
 - 🎓 I’m currently studying Engineer's degree in Computer Science [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
 
