@@ -1,9 +1,9 @@
 ![Yellow Civil Engineer Job LinkedIn Banner](https://user-images.githubusercontent.com/61566287/201190293-b2109467-87c5-4396-b5bf-fc8af034032a.png)
 <h1 align="center">
  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="50px">
-   <strong> Hi there,i'm Yosra Mekaoui welcome to my profile.</strong> 
+   <strong> Hi there,I'm Yosra Mekaoui welcome to my profile.</strong> 
 </h1>
-<h1 align="center">Hi 👋, I'm Yosra Mekaoui</h1>
+
 <h3 align="center">IT engineering student from Tunisia</h3>
 <h4 align = "center">Je suis extrêmement motivée, travailleuse et sérieuse. Je suis prête à consacrer mon temps et mon énergie aux projets auxquels je crois. 
 Et afin d'enrichir mes compétences et mettre en pratique mes connaissances, je m'investirai pleinement dans tout ce que j'entreprends car j'aime apprendre, relever les défis et me surpasser.</h4>
