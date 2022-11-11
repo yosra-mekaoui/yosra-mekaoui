@@ -13,6 +13,10 @@
 
 - 📫 How to reach me **yosra.mekaoui@esprit.tn**
 
+- 👯 I’m looking to collaborate with other developers in projects
+
+- 🥅 2022 Goals: Learn more about web
+
 - ⚡ Fun fact **Hello**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosra-mekaoui&label=Profile%20views&color=0e75b6&style=flat" alt="yosra-mekaoui" /> </p>
 <h3 align="left">Connect with me:</h3>
