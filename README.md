@@ -36,7 +36,11 @@
  
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61566287/201489228-b86e989c-4b1c-4848-b414-4a564e9507d7.png" alt="illustrator" width="40" height="40"/> </a> 
+ 
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,expressjs,angular,spring,maven,react,vscode,c,cpp,symfony,dotnet,mongodb,mysql,sqlite,graphql,qt,discord,linux,git,github,idea,stackoverflow)
 
+<br />
+<br />
  </p>
 
 
