@@ -35,7 +35,7 @@
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
  
  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61566287/201489126-dc9ac582-5d84-4a4e-a7cf-a8d1fd043125.png" alt="illustrator" width="40" height="40"/> </a> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/61566287/201489228-b86e989c-4b1c-4848-b414-4a564e9507d7.png" alt="illustrator" width="40" height="40"/> </a> 
 
  </p>
 
