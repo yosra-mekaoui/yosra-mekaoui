@@ -46,6 +46,6 @@
     </td>
     
 
-<img src="https://activity-graph.herokuapp.com/graph?username=yosra-mekaoui&theme=radical&bg_color=141321&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt=" " /></a><a href="https://ko-fi.com/ "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt=" " /></a></p><br><br>
