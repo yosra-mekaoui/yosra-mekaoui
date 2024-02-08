@@ -28,7 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,ts,py,java,php,jquery,r,nodejs,eclipse,angular,spring,maven,react,vscode,c,cpp,symfony,dotnet,mongodb,mysql,graphql,qt,linux,git,github,ps)
+![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,angular,spring,mongodb,mysql)
 
 <br />
 <br />
