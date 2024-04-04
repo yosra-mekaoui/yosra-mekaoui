@@ -7,7 +7,7 @@
 <h3 align="center">IT engineering  from Tunisia</h3>
 
 
-- 🎓 I’m currently studying Engineer's degree in Computer Science [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+- 🎓 I’m Full Stack Web Developer [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yosra-mekaoui](https://github.com/yosra-mekaoui)
 
