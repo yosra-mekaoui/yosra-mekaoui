@@ -12,6 +12,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/yosra-mekaoui](https://github.com/yosra-mekaoui)
 
 - 📫 How to reach me **yosra.mekaoui@esprit.tn**
+  
+- 🤔 Goals: Contribute more to Open Source projects
+
 
 
 
