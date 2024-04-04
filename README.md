@@ -4,7 +4,7 @@
    <strong> Hi there,I'm Yosra Mekaoui welcome to my profile.</strong> 
 </h1>
 
-<h3 align="center">IT engineering student from Tunisia</h3>
+<h3 align="center">IT engineering  from Tunisia</h3>
 
 
 - 🎓 I’m currently studying Engineer's degree in Computer Science [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **yosra.mekaoui@esprit.tn**
 
-- 👯 I’m looking to collaborate with other developers in projects
 
 
 - ⚡ Fun fact **Hello**
