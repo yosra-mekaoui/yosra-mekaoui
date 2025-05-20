@@ -7,7 +7,7 @@
 <h3 align="center">IT engineering  from Tunisia</h3>
 
 
-- 🎓 I’m Full Stack Web Developer [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+- 🎓 I’m Full Stack Web Developer [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/) [web site](https://yosra-mekaoui-github-io.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yosra-mekaoui](https://github.com/yosra-mekaoui)
 
@@ -42,7 +42,7 @@
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosra-mekaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yosra-mekaoui" /> 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yosra-mekaoui&show_icons=true&theme=highcontrast&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yosra-mekaoui" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yosra-mekaoui&theme=highcontrast&hide_border=true" alt="#yosra-mekaoui" />
+
  </div>
     </td>
     
