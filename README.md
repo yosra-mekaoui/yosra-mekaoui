@@ -7,7 +7,8 @@
 <h3 align="center">IT engineering  from Tunisia</h3>
 
 
-- 🎓 I’m Full Stack Web Developer [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/) [web site](https://yosra-mekaoui-github-io.vercel.app/)
+- 🎓 I’m Full Stack Web Developer [ESPRIT : Ecole Sup Privée d'Ingénierie et de Technologies](https://esprit.tn/)
+-  [web site](https://yosra-mekaoui-github-io.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/yosra-mekaoui](https://github.com/yosra-mekaoui)
 
